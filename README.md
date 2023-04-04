@@ -4,5 +4,5 @@ Hello my name is Juan, I am a Computer Science student. I am working on building
 My favorite language to use is java, and I am currently learning python for data science. 
 
 
-I enjoy computer science because it has helped me develop my problem solving skills, and It helps me stay up to date with technology around the world. I like to solve problems and create an application with programming that gives a solution.
+I enjoy computer science because it has helped me develop my problem solving skills, and It helps me stay up to date with technology around the world. I like to solve problems and create applications with programming that give solutions.
 
